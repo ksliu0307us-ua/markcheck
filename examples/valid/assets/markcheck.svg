@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="40" viewBox="0 0 160 40" role="img" aria-label="MarkCheck example">
+  <rect width="160" height="40" rx="6" fill="#263238"/>
+  <path d="M14 21l7 7 13-16" fill="none" stroke="#7ee787" stroke-width="4"/>
+  <text x="44" y="26" fill="#ffffff" font-family="sans-serif" font-size="16">MarkCheck</text>
+</svg>
